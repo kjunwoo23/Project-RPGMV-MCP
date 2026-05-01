@@ -1,0 +1,1 @@
+gemini --approval-mode auto_edit
